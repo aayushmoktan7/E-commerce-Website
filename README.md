@@ -1,2 +1,2 @@
-# E-commerce-Website
-An e-commerce website is created with HTML, CSS, and JavaScript for the frontend, utilizing Maven and servlets for the backend, and hosted on a Tomcat server.
+# -E-commerce-Website
+An electronic commerce site is developed using Html, CSS and Java Script for the front end, using maven and servlet for backend and tomcat for server-side hosting. 
